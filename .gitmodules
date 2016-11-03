@@ -96,7 +96,7 @@
 	fetchRecurseSubmodules = on-demand
 [submodule "thread"]
 	path = libs/thread
-	url = git@github.com:boostorg/thread.git
+	url = git@github.com:res2k/thread.git
 	fetchRecurseSubmodules = on-demand
 [submodule "tokenizer"]
 	path = libs/tokenizer
@@ -492,7 +492,7 @@
 	branch = master
 [submodule "convert"]
 	path = libs/convert
-	url = git@github.com:res2k/convert.git
+	url = git@github.com:boostorg/convert.git
 	branch = develop
 [submodule "endian"]
 	path = libs/endian

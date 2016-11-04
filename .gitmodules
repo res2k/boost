@@ -137,7 +137,8 @@
 	fetchRecurseSubmodules = on-demand
 [submodule "date_time"]
 	path = libs/date_time
-	url = git@github.com:boostorg/date_time.git
+	url = git@github.com:res2k/date_time.git
+	branch = develop
 	fetchRecurseSubmodules = on-demand
 [submodule "logic"]
 	path = libs/logic
